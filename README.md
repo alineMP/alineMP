@@ -10,7 +10,7 @@ Mais recentemente, direcionei minha atuação também para o desenvolvimento web
 
 Gosto de entender como as coisas funcionam, identificar oportunidades de melhoria e construir soluções que conciliem qualidade técnica e boa experiência do usuário.
 
----
+
 
 ## 🎯 Objetivo profissional
 
@@ -18,7 +18,7 @@ Atualmente, estou direcionando minha evolução profissional para a área de **Q
 
 Busco oportunidades em que eu possa aplicar minha experiência com desenvolvimento de produtos, análise de requisitos e processos para contribuir com a entrega de soluções de qualidade.
 
----
+
 
 ## 💻 Competências
 
@@ -47,7 +47,7 @@ Busco oportunidades em que eu possa aplicar minha experiência com desenvolvimen
 - Manutenção de plugins e correção de bugs
 - Otimização de desempenho e SEO
 
----
+
 
 ## 📫 Contato
 
